@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: suren
+Build-Jdk: 13.0.2
+Implementation-Title: Flight_Scheduling_Demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.flightscheduling
+Implementation-URL: https://spring.io/projects/spring-boot/Flight_Schedu
+ ling
+Created-By: Maven Integration for Eclipse
+
